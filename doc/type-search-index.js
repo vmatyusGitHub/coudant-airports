@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"airports.base","l":"AirportLoc"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"airports.db","l":"CloudantConn"},{"p":"airports.base","l":"CustomerLoc"},{"p":"airports.ui","l":"ListAirportsApp"},{"p":"airports.base","l":"Location"}]
